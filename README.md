@@ -1,2 +1,2 @@
 ## Formulário
-Utilizando jquery, bootstrap, mask input.
+Utilizando jQuery, bootstrap, mask input.
